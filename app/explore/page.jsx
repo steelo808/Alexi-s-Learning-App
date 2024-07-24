@@ -16,7 +16,7 @@ const Explore = () => {
             alt="portrait of young student with book"
             className="cursor-pointer"
         />
-        <h2 className ="font-bold">Math</h2>
+        <h2 className ="font-bold purple_gradient">Math</h2>
         </div>
 
         <div>
@@ -27,7 +27,7 @@ const Explore = () => {
             alt="portrait of young student with book"
             className="cursor-pointer"
         />
-        <h2 className="font-bold">Reading</h2>
+        <h2 className="font-bold purple_gradient">Reading</h2>
         </div>
 
         <div>
@@ -38,7 +38,7 @@ const Explore = () => {
             alt="portrait of young student with book"
             className="cursor-pointer"
         />
-        <h2 className="font-bold">General Knowlegde</h2>
+        <h2 className="font-bold purple_gradient">General Knowlegde</h2>
         </div>
 
         </div> 

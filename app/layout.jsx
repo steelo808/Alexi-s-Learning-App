@@ -16,10 +16,10 @@ const RootLayout = ({children}) => {
     <html lang = "en">
       <body>
       <div className="main">
-        <div className= "gradient" />
+        <div className= "gradient absolute inset-0 z-0" />
       </div>
 
-          <main className="app">
+          <main className="app relative z-10">
           <Navbar/>
             {children} 
           <Footer/>      

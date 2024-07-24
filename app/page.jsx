@@ -13,7 +13,7 @@ const page = () => {
         Explore!
       </Button>
       <Image
-          src="/Images/portrait-young-student-with-book-education-day.png" 
+          src="/Images/home-page-3d-img.png" 
           width={800}
           height={800}
           alt="3d image of black woman sitting on couch"

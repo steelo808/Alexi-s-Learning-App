@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
 export const metadata = {
-  title:"alexi's Learning app",
+  title:"Alexi's Learning app",
   description:"One stop shop for all your learning needs"
 }
 
@@ -12,7 +12,11 @@ const RootLayout = ({children}) => {
   return (
     <html lang = "en">
       <body>
-          <main>
+      <div className="main">
+        <div className= "gradient" />
+      </div>
+
+          <main className="app">
           <Navbar/>
             {children} 
           <Footer/>      

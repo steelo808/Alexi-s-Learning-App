@@ -1,5 +1,6 @@
 "use client"
 import { useState } from 'react';
+import Image from 'next/image';
 import Link from 'next/link';
 
 const Navbar = () => {
@@ -13,21 +14,35 @@ const Navbar = () => {
     <nav className="p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white text-lg font-bold">
-          WELCOME ALEXI !
+          <Image
+            src="/Images/alexi_s_learning_app_logo-removebg-preview.png"
+            width={50}
+            height={50}
+            alt="Logo "
+          />
         </div>
         <div className="hidden md:flex space-x-4">
-          <Link href="/math" className="text-white hover:text-gray-400">
+          <Link href="/math" className="text-violet hover:text-gray-400">
             Math
           </Link>
-          <Link href="/reading" className="text-white hover:text-gray-400">
+          <Link href="/reading" className="text-violet hover:text-gray-400">
             Reading
           </Link>
-          <Link href="/general" className="text-white hover:text-gray-400">
+          <Link href="/general" className="text-violet hover:text-gray-400">
             General Knowlegde
+          </Link>
+          <Link href="/profile" className="text-violet hover:text-gray-400 rounded-full">
+            <Image
+              src="/Images/alex-profile-new.jpeg"
+              width={50}
+              height={50}
+              alt=""
+              className='rounded-full w-12 h-12 border-solid outline-purple border-2'
+            />
           </Link>
         </div>
         <div className="md:hidden">
-          <button onClick={toggleMenu} className="text-white focus:outline-none">
+          <button onClick={toggleMenu} className="text-violet focus:outline-none">
             <svg
               className="w-6 h-6"
               fill="none"
@@ -56,14 +71,23 @@ const Navbar = () => {
       </div>
       {isOpen && (
         <div className="md:hidden">
-          <Link href="/math" className="block text-white hover:bg-gray-700 p-2">
+          <Link href="/math" className="block text-violet hover:bg-purple-700 p-2">
             Math
           </Link>
-          <Link href="/reading" className="block text-white hover:bg-gray-700 p-2">
+          <Link href="/reading" className="block text-violet hover:bg-purple-700 p-2">
             Reading
           </Link>
-          <Link href="/general" className="block text-white hover:bg-gray-700 p-2">
+          <Link href="/general" className="block text-violet hover:bg-purple-700 p-2">
             General Knowledge
+          </Link>
+          <Link href="/profile" className="block text-violet">
+            <Image
+                src="/Images/alex-profile-new.jpeg"
+                width={50}
+                height={50}
+                alt="Alexi's profile Image"
+                className="rounded-full w-12 h-12 border-solid outline-purple border-2"
+              />
           </Link>
         </div>
       )}

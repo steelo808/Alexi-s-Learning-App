@@ -28,7 +28,7 @@ justify-content:center;
 
 
 .purple_gradient {
-  @apply bg-gradient-to-r from-pink-200 via-purple-400 to-yellow-500 bg-clip-text text-transparent;
+  @apply bg-gradient-to-r from-purple-300 via-purple-500 to-yellow-500 bg-clip-text text-transparent;
 }
 
 .orange_gradient {

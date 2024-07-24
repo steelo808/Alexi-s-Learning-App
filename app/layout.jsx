@@ -5,7 +5,10 @@ import Footer from '../components/Footer'
 
 export const metadata = {
   title:"Alexi's Learning app",
-  description:"One stop shop for all your learning needs"
+  description:"One stop shop for all your learning needs",
+  icons: {
+      icon:'/Images/alexi_s_learning_app_logo-removebg-preview.png',
+  },
 }
 
 const RootLayout = ({children}) => {

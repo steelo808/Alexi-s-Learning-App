@@ -1,14 +1,17 @@
 import React from 'react';
 import Image from 'next/Image';
+import { Button } from "@nextui-org/button";
 
 
 const page = () => {
   return (
     <div className ="main-page">
-    <div className="content-wrapper">
+    <div className="content-wrapper text-center mt-5">
       <div className="font-bold text-8xl text-wrap purple_gradient text-center">Welcome Alexi!</div>
-      <p className="text-s underline decoration-2 decoration-purple-500/30 font-light  text-center">Your personalized Learning Journey awaits!</p>
-      {/* <button type="button" className="btn text-center">Explore!</button> */}
+      <p className="text-s  font-light  text-center">Your personalized Learning Journey awaits!</p>
+      <Button radius="full" className ="bg-gradient-to-tr from-purple-500 to-orange-100 text-white shadow-lg px-10 py-3 mt-5 cursor-pointer">
+        Explore!
+      </Button>
       <Image
           src="/Images/home-page-3d-img.png"
           width={800}

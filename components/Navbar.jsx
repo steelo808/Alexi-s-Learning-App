@@ -14,24 +14,26 @@ const Navbar = () => {
     <nav className="p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white text-lg font-bold">
+        <Link href="/">
           <Image
             src="/Images/alexi_s_learning_app_logo-removebg-preview.png"
             width={50}
             height={50}
             alt="Logo "
           />
+          </Link>
         </div>
         <div className="hidden md:flex space-x-4">
-          <Link href="/math" className="text-violet hover:text-gray-400">
+          <Link href="/Math" className="text-violet hover:text-gray-400">
             Math
           </Link>
-          <Link href="/reading" className="text-violet hover:text-gray-400">
+          <Link href="/Reading" className="text-violet hover:text-gray-400">
             Reading
           </Link>
-          <Link href="/general" className="text-violet hover:text-gray-400">
+          <Link href="/General" className="text-violet hover:text-gray-400">
             General Knowlegde
           </Link>
-          <Link href="/profile" className="text-violet hover:text-gray-400 rounded-full">
+          <Link href="/Profile" className="text-violet hover:text-gray-400 rounded-full">
             <Image
               src="/Images/alex-profile-new.jpeg"
               width={50}
@@ -71,16 +73,16 @@ const Navbar = () => {
       </div>
       {isOpen && (
         <div className="md:hidden">
-          <Link href="/math" className="block text-violet hover:bg-purple-700 p-2">
+          <Link href="/Math" className="block text-violet hover:bg-purple-700 p-2">
             Math
           </Link>
-          <Link href="/reading" className="block text-violet hover:bg-purple-700 p-2">
+          <Link href="/Reading" className="block text-violet hover:bg-purple-700 p-2">
             Reading
           </Link>
-          <Link href="/general" className="block text-violet hover:bg-purple-700 p-2">
+          <Link href="/General" className="block text-violet hover:bg-purple-700 p-2">
             General Knowledge
           </Link>
-          <Link href="/profile" className="block text-violet">
+          <Link href="/Profile" className="block text-violet">
             <Image
                 src="/Images/alex-profile-new.jpeg"
                 width={50}

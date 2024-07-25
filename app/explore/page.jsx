@@ -5,7 +5,7 @@ const Explore = () => {
   return (
     <main>
       <div className="content text-center mt-8">
-        <h1 className="font-bold text-7xl text-wrap purple_gradient text-center">Pick Your Learning Topic!</h1>
+        <h1 className="font-bold text-6xl text-wrap purple_gradient text-center">Pick Your Learning Topic!</h1>
         <div className="grid grid-cols-1 gap-4 md:grid-cols-3 text-center mt-20">
 
         <div>
@@ -16,7 +16,7 @@ const Explore = () => {
             alt="portrait of young student with book"
             className="cursor-pointer"
         />
-        <h2 className ="font-bold purple_gradient">Math</h2>
+        <h2 className ="font-bold purple_gradient text-2xl">Math</h2>
         </div>
 
         <div>
@@ -27,7 +27,7 @@ const Explore = () => {
             alt="portrait of young student with book"
             className="cursor-pointer"
         />
-        <h2 className="font-bold purple_gradient">Reading</h2>
+        <h2 className="font-bold purple_gradient text-2xl">Reading</h2>
         </div>
 
         <div>
@@ -38,7 +38,7 @@ const Explore = () => {
             alt="portrait of young student with book"
             className="cursor-pointer"
         />
-        <h2 className="font-bold purple_gradient">General Knowlegde</h2>
+        <h2 className="font-bold purple_gradient text-2xl">General Knowlegde</h2>
         </div>
 
         </div> 

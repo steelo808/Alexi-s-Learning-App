@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="p-4">
+    <nav className="p-5">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white text-lg font-bold">
         <Link href="/">
@@ -24,16 +24,16 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="hidden md:flex space-x-4">
-          <Link href="/Math" className="text-violet hover:text-gray-400">
+          <Link href="/Math" className="text-violet hover:text-purple-400 font-bold">
             Math
           </Link>
-          <Link href="/Reading" className="text-violet hover:text-gray-400">
+          <Link href="/Reading" className="text-violet hover:text-purple-400 font-bold">
             Reading
           </Link>
-          <Link href="/General" className="text-violet hover:text-gray-400">
+          <Link href="/General" className="text-violet hover:text-purple-400 font-bold">
             General Knowlegde
           </Link>
-          <Link href="/Profile" className="text-violet hover:text-gray-400 rounded-full">
+          <Link href="/Profile" className="text-violet hover:text-purple-400 rounded-full">
             <Image
               src="/Images/alex-profile-new.jpeg"
               width={50}
@@ -73,13 +73,13 @@ const Navbar = () => {
       </div>
       {isOpen && (
         <div className="md:hidden">
-          <Link href="/Math" className="block text-violet hover:bg-purple-700 p-2">
+          <Link href="/Math" className="block text-violet hover:bg-purple-700 p-2 font-bold">
             Math
           </Link>
-          <Link href="/Reading" className="block text-violet hover:bg-purple-700 p-2">
+          <Link href="/Reading" className="block text-violet hover:bg-purple-700 p-2 font-bold">
             Reading
           </Link>
-          <Link href="/General" className="block text-violet hover:bg-purple-700 p-2">
+          <Link href="/General" className="block text-violet hover:bg-purple-700 p-2 font-bold">
             General Knowledge
           </Link>
           <Link href="/Profile" className="block text-violet">

@@ -19,7 +19,7 @@ const page = () => {
           src="/Images/home-page-3d-img.png" 
           width={800}
           height={800}
-          alt="3d image of black woman sitting on couch"
+          alt="3d image of black woman sitting on couch" 
           className="home-3d-image" />
       </div>
       {/* <Image

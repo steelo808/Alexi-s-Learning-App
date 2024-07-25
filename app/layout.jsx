@@ -14,12 +14,12 @@ export const metadata = {
 const RootLayout = ({children}) => {
   return (
     <html lang = "en">
-      <body>
-      <div className="main">
+      <body className="overflow-hidden">
+      <div className="main overflow-hidden">
         <div className= "gradient absolute inset-0 z-0" />
       </div>
 
-          <main className="app relative z-10">
+          <main className="app relative z-10 overflow-hidden">
           <Navbar/>
             {children} 
           <Footer/>      

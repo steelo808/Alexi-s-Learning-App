@@ -10,7 +10,7 @@ const page = () => {
   return (
     <div className ="main-page">
     <div className="content-wrapper text-center mt-5">
-      <div className="font-bold text-7xl text-wrap purple_gradient text-center">Welcome Alexi!</div>
+      <div className="font-bold text-7xl text-wrap purple_gradient text-center mt-10">Welcome Alexi!</div>
       <p className="text-s  font-light  text-center">Your personalized Learning Journey awaits!</p>
       <Button radius="full" className ="bg-gradient-to-tr from-purple-700 to-orange-100 text-white shadow-lg px-10 py-3 mt-5 cursor-pointer text-m font-bold">
         <Link href="/explore" className="text-white cursor-pointer">Explore!</Link>

@@ -14,7 +14,7 @@ export const metadata = {
 const RootLayout = ({children}) => {
   return (
     <html lang = "en">
-      <body className="overflow-hidden">
+      <body>
       <div className="main overflow-hidden">
         <div className= "gradient absolute inset-0 z-0" />
       </div>

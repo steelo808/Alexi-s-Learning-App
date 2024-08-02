@@ -1,0 +1,141 @@
+[
+    {
+        "category": "general knowledge",
+        "question": "How should you properly cross the street?",
+        "options": ["Run across quickly", "Walk without looking", "Look both ways and walk", "Skip across"],
+        "correctAnswer": "Look both ways and walk"
+    },
+    {
+        "category": "general knowledge",
+        "question": "What is the best way to keep track of how much money you have?",
+        "options": ["Guess", "Write it down", "Ask someone else", "Never spend money"],
+        "correctAnswer": "Write it down"
+    },
+    {
+        "category": "general knowledge",
+        "question": "If you have 3 one-dollar bills, how much money do you have?",
+        "options": ["$1", "$2", "$3", "$4"],
+        "correctAnswer": "$3"
+    },
+    {
+        "category": "general knowledge",
+        "question": "Which bill is worth the most?",
+        "options": ["$1", "$5", "$10", "$20"],
+        "correctAnswer": "$20"
+    },
+    {
+        "category": "general knowledge",
+        "question": "What should you do if you don't have enough money to buy something?",
+        "options": ["Borrow money from a friend", "Take it anyway", "Put it back and save more money", "Ask for a discount"],
+        "correctAnswer": "Put it back and save more money"
+    },
+    {
+        "category": "general knowledge",
+        "question": "Which coin is worth the least?",
+        "options": ["Penny", "Nickel", "Dime", "Quarter"],
+        "correctAnswer": "Penny"
+    },
+    {
+        "category": "general knowledge",
+        "question": "What should you do if you need help with a task?",
+        "options": ["Struggle alone", "Ask for help", "Give up", "Ignore it"],
+        "correctAnswer": "Ask for help"
+    },
+    {
+        "category": "general knowledge",
+        "question": "How can you stay safe while using the internet?",
+        "options": ["Share personal information", "Talk to strangers", "Use strong passwords", "Ignore security warnings"],
+        "correctAnswer": "Use strong passwords"
+    },
+    {
+        "category": "general knowledge",
+        "question": "If an item costs $1.75 and you pay with 2 one-dollar bills, how much change will you get?",
+        "options": ["$0.10", "$0.15", "$0.25", "$0.50"],
+        "correctAnswer": "$0.25"
+    },
+    {
+        "category": "general knowledge",
+        "question": "If you have 2 five-dollar bills, how much money do you have?",
+        "options": ["$5", "$10", "$15", "$20"],
+        "correctAnswer": "$10"
+    },
+    {
+        "category": "general knowledge",
+        "question": "How many quarters make a dollar?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "4"
+    },
+    {
+        "category": "general knowledge",
+        "question": "Which coin is worth 10 cents?",
+        "options": ["Penny", "Nickel", "Dime", "Quarter"],
+        "correctAnswer": "Dime"
+    },
+    {
+        "category": "general knowledge",
+        "question": "Which coin is worth 25 cents?",
+        "options": ["Penny", "Nickel", "Dime", "Quarter"],
+        "correctAnswer": "Quarter"
+    },
+    {
+        "category": "general knowledge",
+        "question": "What should you do if you need help with a task?",
+        "options": ["Struggle alone", "Ask for help", "Give up", "Ignore it"],
+        "correctAnswer": "Ask for help"
+    },
+    {
+        "category": "general knowledge",
+        "question": "If an item costs $4.75 and you give the cashier $5, how much change will you get?",
+        "options": ["$0.25", "$0.50", "$1.00", "$1.25"],
+        "correctAnswer": "$0.25"
+    },
+    {
+        "category": "general knowledge",
+        "question": "What should you do if you don't understand something?",
+        "options": ["Ignore it", "Ask questions", "Guess", "Pretend you know"],
+        "correctAnswer": "Ask questions"
+    },
+    {
+        "category": "general knowledge",
+        "question": "How can you get ready for a job interview?",
+        "options": ["Wear casual clothes", "Learn about the job and practice answers", "Arrive late", "Talk only about your hobbies"],
+        "correctAnswer": "Learn about the job and practice answers"
+    },
+    {
+        "category": "general knowledge",
+        "question": "How can you handle peer pressure?",
+        "options": ["Follow everyone else", "Stick to what you believe is right", "Stay away from everyone", "Do what others are doing"],
+        "correctAnswer": "Stick to what you believe is right"
+    },
+    {
+        "category": "general knowledge",
+        "question": "How can you stay organized?",
+        "options": ["Keep everything in a mess", "Use folders and lists", "Forget about organization", "Let others handle it"],
+        "correctAnswer": "Use folders and lists"
+    },
+    {
+        "category": "general knowledge",
+        "question": "How can you deal with a disagreement with someone?",
+        "options": ["Avoid them", "Talk about the problem calmly", "Yell at them", "Ignore the problem"],
+        "correctAnswer": "Talk about the problem calmly"
+    },
+    {
+        "category": "general knowledge",
+        "question": "What is a good way to use social media?",
+        "options": ["Post everything about yourself", "Be careful about what you share", "Share too much information", "Ignore privacy settings"],
+        "correctAnswer": "Be careful about what you share"
+    },
+    {
+        "category": "life skills",
+        "question": "If you have a $10 bill and buy an item for $8.50, how much change will you get?",
+        "options": ["$0.50", "$1.00", "$1.50", "$2.00"],
+        "correctAnswer": "$1.50"
+    },
+    {
+        "category": "general knowledge",
+        "question": "What should you do if you have a disagreement with a friend?",
+        "options": ["Avoid talking about it", "Discuss the issue calmly", "Argue until they agree", "Blame them without listening"],
+        "correctAnswer": "Discuss the issue calmly"
+    }
+
+]

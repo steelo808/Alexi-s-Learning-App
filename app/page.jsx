@@ -13,7 +13,7 @@ const page = () => {
       <div className="font-bold text-7xl text-wrap purple_gradient text-center mt-10">Welcome Alexi!</div>
       <p className="text-s  font-thin  text-center">Your personalized Learning Journey awaits!</p>
       <Button radius="full" className ="bg-gradient-to-tr from-purple-700 to-orange-100 text-white shadow-lg px-10 py-3 mt-5 cursor-pointer text-m font-bold">
-        <Link href="/explore" className="text-white cursor-pointer">Explore!</Link>
+        <Link href="/Explore" className="text-white cursor-pointer">Explore!</Link>
       </Button>
       <Image
           src="/Images/home-page-3d-img.png" 

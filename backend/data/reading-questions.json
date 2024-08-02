@@ -1,0 +1,352 @@
+[
+    {
+        "category": "reading",
+        "passage": "Tom went to the park on a sunny day. He played on the swings and had a lot of fun. After playing, Tom ate an ice cream cone.",
+        "question": "What did Tom do after playing at the park?",
+        "options": ["He went home", "He ate an ice cream cone", "He went to the store", "He played with a friend"],
+        "correctAnswer": "He ate an ice cream cone"
+    },
+    {
+        "category": "reading",
+        "passage": "Sarah is a student at Greenfield School. She loves to read books in the library and enjoys drawing pictures during art class.",
+        "question": "What does Sarah enjoy doing at school?",
+        "options": ["Reading books", "Playing sports", "Watching TV", "Playing games"],
+        "correctAnswer": "Reading books"
+    },
+    {
+        "category": "reading",
+        "passage": "In the story, Sally did her homework right after school. She made sure to finish all her assignments before playing outside.",
+        "question": "What did Sally do after school?",
+        "options": ["She went to the park", "She did her homework", "She watched TV", "She played a game"],
+        "correctAnswer": "She did her homework"
+    },
+    {
+        "category": "reading",
+        "passage": "The story takes place in a small town with a beautiful park. There are many trees and flowers, and children play on the swings and slides.",
+        "question": "Where does the story take place?",
+        "options": ["In a small town", "In a big city", "On a farm", "At the beach"],
+        "correctAnswer": "In a small town"
+    },
+    {
+        "category": "reading",
+        "passage": "The boy cried because he lost his favorite toy. He searched everywhere but could not find it.",
+        "question": "Why did the boy cry?",
+        "options": ["He lost his toy", "He was hungry", "He was tired", "He was happy"],
+        "correctAnswer": "He lost his toy"
+    },
+    {
+        "category": "reading",
+        "passage": "In the story, the main character learns that telling the truth is important. The story ends with the character making a promise to always be honest.",
+        "question": "What is the moral of the story?",
+        "options": ["Always tell the truth", "Be kind to others", "Never give up", "Share with friends"],
+        "correctAnswer": "Always tell the truth"
+    },
+    {
+        "category": "reading",
+        "passage": "An old lady was having trouble crossing the street. A young boy saw her and decided to help her get safely to the other side.",
+        "question": "Who helped the old lady cross the street?",
+        "options": ["A policeman", "A young boy", "A teacher", "A mailman"],
+        "correctAnswer": "A young boy"
+    },
+    {
+        "category": "reading",
+        "passage": "The fox saw some grapes hanging on a vine. He tried to reach them but couldn’t. He finally walked away, saying they were sour.",
+        "question": "What did the fox do when he saw the grapes?",
+        "options": ["He ate them", "He ignored them", "He tried to reach them", "He ran away"],
+        "correctAnswer": "He tried to reach them"
+    },
+    {
+        "category": "reading",
+        "passage": "The girl smiled when she saw her friend coming towards her. They had not met in a long time and were happy to see each other.",
+        "question": "Why did the girl smile?",
+        "options": ["She got a gift", "She saw her friend", "She heard a joke", "She won a game"],
+        "correctAnswer": "She saw her friend"
+    },
+    {
+        "category": "reading",
+        "passage": "The bear in the story loved honey. He would always find a way to get some whenever he was hungry.",
+        "question": "What did the bear do in the story?",
+        "options": ["He slept", "He ate honey", "He climbed a tree", "He ran in the forest"],
+        "correctAnswer": "He ate honey"
+    },
+    {
+        "category": "reading",
+        "passage": "The girl went to the park and met her friend there. They played together on the swings and slides.",
+        "question": "Who did the girl meet in the park?",
+        "options": ["Her brother", "Her friend", "A stranger", "Her teacher"],
+        "correctAnswer": "Her friend"
+    },
+    {
+        "category": "reading",
+        "passage": "While walking on the beach, the boy found a beautiful shell buried in the sand. He was very excited to show it to his family.",
+        "question": "What did the boy find on the beach?",
+        "options": ["A shell", "A fish", "A treasure", "A crab"],
+        "correctAnswer": "A shell"
+    },
+    {
+        "category": "reading",
+        "passage": "The man was very happy because he won a prize in a contest. He shared the good news with all his friends.",
+        "question": "Why was the man happy?",
+        "options": ["He found a job", "He bought a car", "He met his family", "He won a prize"],
+        "correctAnswer": "He won a prize"
+    },
+    {
+        "category": "reading",
+        "passage": "The story is called 'The Lost Dog.' It is about a dog who goes missing and the adventure it has while trying to find its way back home.",
+        "question": "What is the title of the story?",
+        "options": ["The Lost Dog", "A Day at the Park", "The Happy Farmer", "A Trip to the Moon"],
+        "correctAnswer": "The Lost Dog"
+    },
+    {
+        "category": "reading",
+        "passage": "The story was written by Jane Doe, who is known for her wonderful children’s books.",
+        "question": "Who wrote the story?",
+        "options": ["Mark Twain", "J.K. Rowling", "Dr. Seuss", "Jane Doe"],
+        "correctAnswer": "Jane Doe"
+    },
+    {
+        "category": "reading",
+        "passage": "The weather in the story was rainy all day long. The children stayed indoors and played games.",
+        "question": "What was the weather like in the story?",
+        "options": ["Sunny", "Rainy", "Snowy", "Windy"],
+        "correctAnswer": "Rainy"
+    },
+    {
+        "category": "reading",
+        "passage": "During winter, the children built a snowman in the backyard. They used a carrot for the nose and stones for the eyes.",
+        "question": "What did the children build in the snow?",
+        "options": ["A snowman", "A fort", "An igloo", "A sled"],
+        "correctAnswer": "A snowman"
+    },
+    {
+        "category": "reading",
+        "passage": "After flying around the garden, the bird found a nice spot in a tree to build its nest and keep its eggs safe.",
+        "question": "What did the bird do after it flew away?",
+        "options": ["It built a nest", "It found food", "It sang a song", "It sat on a tree"],
+        "correctAnswer": "It built a nest"
+    },
+    {
+        "category": "reading",
+        "passage": "The rabbit hopped away quickly when it heard a loud noise. It was scared and wanted to find a safe place.",
+        "question": "Why did the rabbit hop away?",
+        "options": ["It was scared", "It was hungry", "It was sleepy", "It was happy"],
+        "correctAnswer": "It was scared"
+    },
+    {
+        "category": "reading",
+        "passage": "The teacher told the students to read quietly so that everyone could concentrate on their books without any distractions.",
+        "question": "What did the teacher say to the students?",
+        "options": ["Read quietly", "Stand up", "Play outside", "Draw a picture"],
+        "correctAnswer": "Read quietly"
+    },
+    {
+        "category": "reading",
+        "passage": "The girl gave her mother a beautiful flower she picked from the garden. Her mother was very pleased with the thoughtful gift.",
+        "question": "What did the girl give her mother?",
+        "options": ["A hug", "A flower", "A letter", "A gift"],
+        "correctAnswer": "A flower"
+    },
+    {
+        "category": "reading",
+        "passage": "In the story, the lion roared loudly to show that he was the king of the jungle. All the animals listened to him.",
+        "question": "What did the lion do in the story?",
+        "options": ["He roared", "He slept", "He hunted", "He played"],
+        "correctAnswer": "He roared"
+    },
+    {
+        "category": "reading",
+        "passage": "The story happens in a forest where animals live and play. There are tall trees and a flowing river.",
+        "question": "Where did the story take place?",
+        "options": ["In a forest", "In a city", "On a farm", "At the beach"],
+        "correctAnswer": "In a forest"
+    },
+    {
+        "category": "reading",
+        "passage": "The mouse found some cheese in the kitchen and ate it happily. It was the mouse’s favorite treat.",
+        "question": "What did the mouse eat?",
+        "options": ["Cheese", "Bread", "Fruit", "Vegetables"],
+        "correctAnswer": "Cheese"
+    },
+    {
+        "category": "reading",
+        "passage": "The boy was sad because his friend moved away. He missed playing with him and talking to him every day.",
+        "question": "Why was the boy sad?",
+        "options": ["His friend moved away", "He lost his toy", "He was sick", "He was tired"],
+        "correctAnswer": "His friend moved away"
+    },
+    {
+        "category": "reading",
+        "passage": "The cat climbed up a tall tree and got stuck. The fireman came and helped the cat get back down safely.",
+        "question": "Who helped the cat get down from the tree?",
+        "options": ["A neighbor", "A fireman", "A vet", "A child"],
+        "correctAnswer": "A fireman"
+    },
+    {
+        "category": "reading",
+        "passage": "The farmer planted seeds in his garden. Over time, the seeds grew into beautiful flowers and vegetables.",
+        "question": "What did the farmer plant in his garden?",
+        "options": ["Flowers", "Trees", "Bushes", "Rocks"],
+        "correctAnswer": "Flowers"
+    },
+    {
+        "category": "reading",
+        "passage": "The little girl loved to visit the zoo. She enjoyed seeing the lions, monkeys, and giraffes.",
+        "question": "What animals did the girl see at the zoo?",
+        "options": ["Lions, monkeys, and giraffes", "Dogs, cats, and birds", "Fish, frogs, and turtles", "Horses, cows, and pigs"],
+        "correctAnswer": "Lions, monkeys, and giraffes"
+    },
+    {
+        "category": "reading",
+        "passage": "The story is about a young knight who goes on an adventure to find a lost treasure. He faces many challenges along the way.",
+        "question": "What is the young knight searching for?",
+        "options": ["A lost treasure", "A magical sword", "A brave horse", "A wise wizard"],
+        "correctAnswer": "A lost treasure"
+    },
+    {
+        "category": "reading",
+        "passage": "In the story, the dog barked loudly when it saw a stranger at the door. The family was alerted and came to see what was happening.",
+        "question": "What did the dog do when it saw the stranger?",
+        "options": ["Barked loudly", "Ran away", "Went to sleep", "Laughed"],
+        "correctAnswer": "Barked loudly"
+    },
+    {
+        "category": "reading",
+        "passage": "The boy and his sister went on a picnic in the park. They brought sandwiches, fruit, and drinks with them.",
+        "question": "What did the boy and his sister bring on their picnic?",
+        "options": ["Sandwiches, fruit, and drinks", "Cookies and milk", "Pizza and soda", "Cake and juice"],
+        "correctAnswer": "Sandwiches, fruit, and drinks"
+    },
+    {
+        "category": "reading",
+        "passage": "The cat sat by the window and watched the birds outside. It was very interested in their songs and movements.",
+        "question": "What did the cat watch from the window?",
+        "options": ["Birds", "Cars", "People", "Dogs"],
+        "correctAnswer": "Birds"
+    },
+    {
+        "category": "reading",
+        "passage": "In the story, the little girl built a sandcastle at the beach. She decorated it with seashells and made it look very pretty.",
+        "question": "What did the little girl build at the beach?",
+        "options": ["A sandcastle", "A kite", "A boat", "A fort"],
+        "correctAnswer": "A sandcastle"
+    },
+    {
+        "category": "reading",
+        "passage": "The story describes a magical forest where animals can talk and trees can sing. It is a place full of wonder and excitement.",
+        "question": "What makes the forest magical in the story?",
+        "options": ["Talking animals and singing trees", "Bright colors and strange creatures", "Hidden treasures and secret paths", "Friendly fairies and floating lanterns"],
+        "correctAnswer": "Talking animals and singing trees"
+    },
+    {
+        "category": "reading",
+        "passage": "The girl’s birthday party was held in her backyard. There were balloons, a cake, and many of her friends came to celebrate.",
+        "question": "Where was the girl’s birthday party held?",
+        "options": ["In her backyard", "At a park", "At a restaurant", "In her house"],
+        "correctAnswer": "In her backyard"
+    },
+    {
+        "category": "reading",
+        "passage": "During the story, the teacher taught the students about planets in the solar system. They learned interesting facts about each planet.",
+        "question": "What did the teacher teach the students about?",
+        "options": ["Planets in the solar system", "Animals in the jungle", "History of ancient civilizations", "Different types of plants"],
+        "correctAnswer": "Planets in the solar system"
+    },
+    {
+        "category": "reading",
+        "passage": "The boy found a map in an old book. The map showed the way to a hidden treasure buried in the garden.",
+        "question": "What did the map in the old book show?",
+        "options": ["The way to a hidden treasure", "Directions to a hidden cave", "A path through the forest", "A route to a secret city"],
+        "correctAnswer": "The way to a hidden treasure"
+    },
+    {
+        "category": "reading",
+        "passage": "The puppy wagged its tail excitedly when it saw its owner come home. It was happy to see its favorite person.",
+        "question": "What did the puppy do when it saw its owner?",
+        "options": ["Wagged its tail", "Barked loudly", "Ran away", "Sat quietly"],
+        "correctAnswer": "Wagged its tail"
+    },
+    {
+        "category": "reading",
+        "passage": "The little boy wanted to make his mother a special gift. He decided to create a card with drawings and a heartfelt message.",
+        "question": "What did the little boy make for his mother?",
+        "options": ["A card with drawings", "A necklace", "A cake", "A scarf"],
+        "correctAnswer": "A card with drawings"
+    },
+    {
+        "category": "reading",
+        "passage": "The family went on a camping trip in the mountains. They set up a tent, made a campfire, and enjoyed roasting marshmallows.",
+        "question": "What did the family do on their camping trip?",
+        "options": ["Set up a tent and made a campfire", "Visited a museum", "Went to a concert", "Had a picnic in the park"],
+        "correctAnswer": "Set up a tent and made a campfire"
+    },
+    {
+        "category": "reading",
+        "passage": "The story describes a magical castle where fairies live and play. The fairies have colorful wings and love to dance around the castle.",
+        "question": "What do the fairies in the castle love to do?",
+        "options": ["Dance around the castle", "Read books", "Cook delicious food", "Build furniture"],
+        "correctAnswer": "Dance around the castle"
+    },
+    {
+        "category": "reading",
+        "passage": "The boy’s dog loved to play fetch in the backyard. Every day, he would bring back the ball and drop it at his owner's feet.",
+        "question": "What did the dog do during playtime?",
+        "options": ["Played fetch", "Ran around the house", "Barked at strangers", "Slept on the couch"],
+        "correctAnswer": "Played fetch"
+    },
+    {
+        "category": "reading",
+        "passage": "In the story, a young girl finds a magical book that allows her to travel to different worlds. Each world she visits has its own unique adventure.",
+        "question": "What does the magical book allow the girl to do?",
+        "options": ["Travel to different worlds", "Fly through the sky", "Talk to animals", "Become invisible"],
+        "correctAnswer": "Travel to different worlds"
+    },
+    {
+        "category": "reading",
+        "passage": "The boy and his sister built a treehouse in their backyard. They decorated it with bright colors and filled it with their favorite toys.",
+        "question": "What did the boy and his sister build in their backyard?",
+        "options": ["A treehouse", "A sandbox", "A swing set", "A garden"],
+        "correctAnswer": "A treehouse"
+    },
+    {
+        "category": "reading",
+        "passage": "The children enjoyed a sunny day at the beach. They collected seashells, built sandcastles, and splashed in the waves.",
+        "question": "What did the children do at the beach?",
+        "options": ["Collected seashells and built sandcastles", "Went fishing", "Had a barbecue", "Went on a boat ride"],
+        "correctAnswer": "Collected seashells and built sandcastles"
+    },
+    {
+        "category": "reading",
+        "passage": "The story tells about a brave little rabbit who helps his friends find food during the winter. The rabbit shares what he has with everyone.",
+        "question": "What does the brave little rabbit do in the story?",
+        "options": ["Helps his friends find food", "Builds a shelter", "Finds a warm place", "Hunts for food"],
+        "correctAnswer": "Helps his friends find food"
+    },
+    {
+        "category": "reading",
+        "passage": "During the camping trip, the family saw a shooting star and made a wish. They spent the evening telling stories around the campfire.",
+        "question": "What did the family do around the campfire?",
+        "options": ["Told stories", "Cooked dinner", "Played games", "Sang songs"],
+        "correctAnswer": "Told stories"
+    },
+    {
+        "category": "reading",
+        "passage": "The girl received a new puppy for her birthday. She named it Max and spent the whole day playing with her new pet.",
+        "question": "What did the girl do with her new puppy?",
+        "options": ["Played with it", "Trained it", "Took it to the vet", "Taught it tricks"],
+        "correctAnswer": "Played with it"
+    },
+    {
+        "category": "reading",
+        "passage": "In the story, a young wizard learns to cast spells with his magic wand. He uses his new skills to help his friends and solve problems.",
+        "question": "What does the young wizard do with his magic wand?",
+        "options": ["Casts spells", "Waves it around", "Shows it to his friends", "Keeps it hidden"],
+        "correctAnswer": "Casts spells"
+    },
+    {
+        "category": "reading",
+        "passage": "The little girl loves to visit the farm where she can feed the animals and help the farmer with chores. She especially enjoys feeding the chickens.",
+        "question": "What does the little girl enjoy doing at the farm?",
+        "options": ["Feeding the chickens", "Riding horses", "Milking cows", "Planting crops"],
+        "correctAnswer": "Feeding the chickens"
+    }
+]

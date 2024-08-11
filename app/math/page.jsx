@@ -1,8 +1,5 @@
-"use client"
 import React from 'react';
-import {useState} from 'react';
 import {Button, ButtonGroup} from "@nextui-org/button";
-import { Progress } from '@nextui-org/react';
 import Image from 'next/image';
 
 
@@ -22,20 +19,6 @@ const Math = () => {
       alt="3d image of black girl"
       className="ai-girl"
     />
-    {/* <Progress
-        aria-label ="keep going! you got this!"
-        size="lg"
-        value={50}
-        color="purple"
-        showValueLabel={true}
-        classNames={{
-            base:'max-w-md',
-            track:"drop-shadow-md border border-default",
-            indicator: "bg-gradient-to-r from-pink-500 to-yellow-500",
-            label: "tracking-wider font-medium text-default-600",
-            value:"text-foreground/50"
-        }}
-    /> */}
 
     </div>
   );

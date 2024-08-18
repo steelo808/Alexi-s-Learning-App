@@ -3,6 +3,8 @@ import {Button, ButtonGroup} from "@nextui-org/button";
 import Image from 'next/image';
 
 
+
+
 const Math = () => {
   return (
     <div className="wrapper text-center">
